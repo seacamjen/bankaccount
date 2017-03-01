@@ -1,0 +1,26 @@
+#loggedIn {
+  display: none;
+}
+.bg-color {
+  background: #eee;
+}
+.col-md-6, .col-md-12 {
+  padding: 20px
+}
+.col-md-6 {
+  border:white solid 5px;
+
+  height: 250px;
+}
+.jumbotron {
+  background-image: url(../img/bgImg.jpg);
+  background-size: contain;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: darkgrey;
+  height: 200px;
+}
+
+.col-md-12 {
+  text-align: center;
+}
